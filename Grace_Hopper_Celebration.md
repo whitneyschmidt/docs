@@ -1,7 +1,7 @@
 # Grace Hopper Celebration 🎉 
 
 ## What is GHC?
-![Rear Admiral Grace M. Hopper aka  "Grandma COBOL” — invented one of the first linkers | served in the US Army Reserve | retired from the US Navy at age 79](https://paper-attachments.dropbox.com/s_A625C12AE701A2ECAE44DD23DD0A54C4286C89ECCAF2B818764A5F0BE41D7110_1573766795018_image.png)
+![Rear Admiral Grace M. Hopper aka  "Grandma COBOL” — invented one of the first linkers | served in the US Army Reserve | retired from the US Navy at age 79](https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Commodore_Grace_M._Hopper%2C_USN_%28covered%29.jpg/192px-Commodore_Grace_M._Hopper%2C_USN_%28covered%29.jpg)
 
 
 **“The world’s largest gathering of women technologists”**
